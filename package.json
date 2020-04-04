@@ -1,0 +1,25 @@
+{
+  "name": "bot-message-watcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H4fif/bot-message-watcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H4fif/bot-message-watcher/issues"
+  },
+  "homepage": "https://github.com/H4fif/bot-message-watcher#readme",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "nodemon": "^2.0.2"
+  }
+}
